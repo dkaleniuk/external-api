@@ -31,7 +31,7 @@ Create a function, that makes an external call to an api and changes it
       $caller->root('data.users');
       ```
 4. Filter elements by their value [boolean, integer and string] (This function can be excluded or used several times):
-      ```php
+    ```php
       $caller->where('site_admin','=', false);
       ```
 5. Sort elements by their value (This function can be excluded or used several times):
