@@ -1,0 +1,19 @@
+{
+    "name": "proxify-ab/assignments",
+    "description": "Test for candidates",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mauriceschilpp",
+            "email": "maurice@proxify.io"
+        }
+    ],
+    "require": {
+        "php": ">=7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
