@@ -14,7 +14,7 @@
 3. Reusable code fragments
 
 #### The main task in this assignment:
-Create a function, that makes an external call to an api and changes it
+Create a function, that makes an external call to an api and chain it with helper functions
 
 #### 🤖 Instructions:
 1. Call the class `Caller`:
