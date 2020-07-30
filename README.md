@@ -12,6 +12,7 @@
 1. Clean and readable code
 2. Good knowledge in design patterns
 3. Reusable code fragments
+4. Knowledge in unit testing
 
 #### The main task in this assignment:
 Create a function, that makes an external call to an api and chain it with helper functions
